@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="295" height="295" viewBox="0 0 295 295">
+  <defs>
+    <clipPath id="clip-icon-list">
+      <rect width="295" height="295"/>
+    </clipPath>
+  </defs>
+  <g id="icon-list" clip-path="url(#clip-icon-list)">
+    <g id="list" transform="translate(71.135 75.961)">
+      <path id="Path_943" data-name="Path 943" d="M0,81.571V0" transform="translate(137.017 117.039) rotate(90)" fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+      <path id="Path_945" data-name="Path 945" d="M0,81.571V0" transform="translate(137.017 72.039) rotate(90)" fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+      <path id="Path_946" data-name="Path 946" d="M0,81.571V0" transform="translate(137.017 27.039) rotate(90)" fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+      <path id="Path_947" data-name="Path 947" d="M0,.045V0" transform="translate(15.911 117.039) rotate(90)" fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+      <path id="Path_948" data-name="Path 948" d="M0,.045V0" transform="translate(15.911 72.039) rotate(90)" fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+      <path id="Path_949" data-name="Path 949" d="M0,.045V0" transform="translate(15.911 27.039) rotate(90)" fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+    </g>
+  </g>
+</svg>
